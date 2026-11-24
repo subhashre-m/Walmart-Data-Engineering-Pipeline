@@ -209,7 +209,7 @@ Airflow's Docker Compose setup recommends at least 4 GB of memory, 2 CPUs, and 1
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nishu2423/Walmart-Data-Engineering-Pipeline.git
+git clone https://github.com/subhashre-m/Walmart-Data-Engineering-Pipeline.git
 cd Walmart-Data-Engineering-Pipeline
 ```
 
@@ -315,5 +315,5 @@ The repository's initial project notes link to a walkthrough video:
 
 ---
 
-**Author:** [nishu2423](https://github.com/nishu2423)  
-**Repository:** [Walmart Data Engineering Pipeline](https://github.com/nishu2423/Walmart-Data-Engineering-Pipeline)
+**Author:** [Subhashree Mohapatra](https://github.com/subhashre-m)  
+**Repository:** [Walmart Data Engineering Pipeline](https://github.com/subhashre-m/Walmart-Data-Engineering-Pipeline)
